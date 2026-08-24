@@ -58,7 +58,7 @@ export default function Hero() {
         <div className="relative mx-auto w-full max-w-md md:max-w-none">
           <div className="glow-card rounded-[1.5rem] border border-white/10 bg-white/5 p-3 sm:rounded-[2rem] sm:p-4">
             <img
-              src="/maaz.PNG"
+              src="/maaz.png"
               alt="Maaz Hussain video editor portfolio visual"
               className="h-[420px] w-full rounded-[1.2rem] object-cover object-center sm:h-[520px] sm:rounded-[1.5rem] md:h-[560px]"
             />
