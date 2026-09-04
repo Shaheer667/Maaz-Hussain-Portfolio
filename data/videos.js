@@ -927,6 +927,22 @@ export const videos = [
       "Short promotional edit designed for product marketing, launches, and online campaigns.",
     youtubeId: "RwXNRm_sems",
   },
+  {
+    title: "Event Opening Edits",
+    category: "Event Opening Edits",
+    slug: "event-edits",
+    description:
+      "Edit event videos, clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "OtK8QycHPIE",
+  },
+  {
+    title: "Event Opening Edits",
+    category: "Event Opening Edits",
+    slug: "event-edits",
+    description:
+      "Edit event videos, clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "Mzq91Hrdoqw",
+  },
 ];
 
 
@@ -1025,6 +1041,11 @@ export const videoCategories = [
     title: "Whiteboard Animation",
     slug: "whiteboard-animation",
     description: "2D Animation, Line-art, captions, and audio-cleaned edits.",
+  },
+  {
+    title: "Event Opening Edits",
+    slug: "event-edits",
+    description: "Clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
   },
   {
     title: "Tiktok Ads",
