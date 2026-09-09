@@ -248,6 +248,46 @@ export const videos = [
     youtubeId: "eeGbvNWnoGY",
   },
   {
+    title: "Motion Graphics Videos",
+    category: "Motion Graphics",
+    slug: "motion-graphics",
+    description:
+      "Narrative-style edit with pacing, B-roll, sound design, and emotional flow.",
+    youtubeId: "qcctx2Gz6L8",
+  },
+  {
+    title: "Motion Graphics Videos",
+    category: "Motion Graphics",
+    slug: "motion-graphics",
+    description:
+      "Narrative-style edit with pacing, B-roll, sound design, and emotional flow.",
+    youtubeId: "bflPF-xGtq8",
+  },
+  {
+    title: "Motion Graphics Videos",
+    category: "Explainer Videos",
+    slug: "motion-graphics",
+    description:
+      "Narrative-style edit with pacing, B-roll, sound design, and emotional flow.",
+    youtubeId: "Ry_wJntJo4o",
+  },
+  {
+    title: "Explainer Videos",
+    category: "Explainer Videos",
+    slug: "explainer-videos",
+    description:
+      "Narrative-style edit with pacing, B-roll, sound design, and emotional flow.",
+    youtubeId: "bflPF-xGtq8",
+  },
+  {
+    title: "Explainer Videos",
+    category: "Explainer Videos",
+    slug: "explainer-videos",
+    description:
+      "Narrative-style edit with pacing, B-roll, sound design, and emotional flow.",
+    youtubeId: "Ry_wJntJo4o",
+  },
+  {
     title: "Explainer Videos",
     category: "Explainer Videos",
     slug: "explainer-videos",
