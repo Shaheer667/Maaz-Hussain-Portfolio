@@ -624,6 +624,14 @@ export const videos = [
     youtubeId: "itdb_5epSzA",
   },
   {
+    title: "Documentary Videos",
+    category: "Documentary Videos",
+    slug: "documentary-videos",
+    description:
+      "Edit documentary videos, history, captions, and fast-paced edits.",
+    youtubeId: "Fip7DsgJFK4",
+  },
+  {
     title: "Whiteboard Animation",
     category: "Whiteboard Animation",
     slug: "whiteboard-animation",
