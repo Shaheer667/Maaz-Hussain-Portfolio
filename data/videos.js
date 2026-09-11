@@ -72,6 +72,14 @@ export const videos = [
     youtubeId: "KyQlDjc4Szo",
   },
   {
+    title: "YouTube Edit",
+    category: "YouTube Videos",
+    slug: "youtube-videos",
+    description:
+      "Clean cuts, B-roll, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "Fip7DsgJFK4",
+  },
+  {
     title: "Instagram Reel Edit",
     category: "Short-form Content",
     slug: "short-form-content",
@@ -198,6 +206,14 @@ export const videos = [
     description:
       "A polished brand video edited with strong visuals, smooth flow, and modern presentation.",
     youtubeId: "sy0sAU6ggOU",
+  },
+  {
+    title: "Cashcow Video",
+    category: "Cashcow Videos",
+    slug: "cashcow-videos",
+    description:
+      "A polished brand video edited with strong visuals, smooth flow, and modern presentation.",
+    youtubeId: "Fip7DsgJFK4",
   },
   {
     title: "Motion Graphics Videos",
