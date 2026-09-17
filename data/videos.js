@@ -329,35 +329,83 @@ export const videos = [
   },
   {
     title: "Product Promo Edit",
-    category: "Product Videos",
+    category: "Product/E-commerce Videos",
     slug: "product-videos",
     description:
       "Short promotional edit designed for product marketing, launches, and online campaigns.",
-    youtubeId: "fbvwRD7ubwU",
+    youtubeId: "gU284PRAqvk",
   },
   {
     title: "Product Promo Edit",
-    category: "Product Videos",
+    category: "Product/E-commerce Videos",
     slug: "product-videos",
     description:
       "Short promotional edit designed for product marketing, launches, and online campaigns.",
-    youtubeId: "2MSTk9_CI9Q",
+    youtubeId: "Uhq1rRlpg4g",
   },
   {
     title: "Product Promo Edit",
-    category: "Product Videos",
+    category: "Product/Ecommerce Videos",
     slug: "product-videos",
     description:
       "Short promotional edit designed for product marketing, launches, and online campaigns.",
-    youtubeId: "vxR-U7_K5YM",
+    youtubeId: "kKqyCh4rLEk",
   },
   {
-    title: "Talking Head",
-    category: "Talking Head Videos",
-    slug: "talking-head",
+    title: "Product Promo Edit",
+    category: "Product/Ecommerce Videos",
+    slug: "product-videos",
     description:
-      "Clean cuts, B-roll, music, lower thirds, and smooth pacing for a professional long-form video.",
-    youtubeId: "7m4rOMbvfr8",
+      "Short promotional edit designed for product marketing, launches, and online campaigns.",
+    youtubeId: "4mNCU73uJgc",
+  },
+  {
+    title: "Product Promo Edit",
+    category: "Product/Ecommerce Videos",
+    slug: "product-videos",
+    description:
+      "Short promotional edit designed for product marketing, launches, and online campaigns.",
+    youtubeId: "H5VaTWAVrsM",
+  },
+  {
+    title: "Product Promo Edit",
+    category: "Product/Ecommerce Videos",
+    slug: "product-videos",
+    description:
+      "Short promotional edit designed for product marketing, launches, and online campaigns.",
+    youtubeId: "IugtcGRn6FA",
+  },
+  {
+    title: "Product Promo Edit",
+    category: "Product/Ecommerce Videos",
+    slug: "product-videos",
+    description:
+      "Short promotional edit designed for product marketing, launches, and online campaigns.",
+    youtubeId: "KYARhvfmEGU",
+  },
+  {
+    title: "Product Promo Edit",
+    category: "Product/Ecommerce Videos",
+    slug: "product-videos",
+    description:
+      "Short promotional edit designed for product marketing, launches, and online campaigns.",
+    youtubeId: "rTXkxaZ9sIs",
+  },
+  {
+    title: "Product Promo Edit",
+    category: "Product/Ecommerce Videos",
+    slug: "product-videos",
+    description:
+      "Short promotional edit designed for product marketing, launches, and online campaigns.",
+    youtubeId: "fNy6vxcvxIo",
+  },
+  {
+    title: "Product Promo Edit",
+    category: "Product/Ecommerce Videos",
+    slug: "product-videos",
+    description:
+      "Short promotional edit designed for product marketing, launches, and online campaigns.",
+    youtubeId: "cFXV82ZvjOA",
   },
   {
     title: "Talking Head",
@@ -1057,7 +1105,7 @@ export const videoCategories = [
     description: "Reels, TikToks, YouTube Shorts, captions, and fast-paced edits.",
   },
   {
-    title: "Product Videos",
+    title: "Product/E-commerce Videos",
     slug: "product-videos",
     description: "Product promos, launch edits, and marketing-focused videos.",
   },
