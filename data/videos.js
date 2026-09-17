@@ -424,6 +424,54 @@ export const videos = [
     youtubeId: "8lFOyhS_JYY",
   },
   {
+    title: "Talking Head",
+    category: "Talking Head Videos",
+    slug: "talking-head",
+    description:
+      "Clean cuts, B-roll, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "TSKzxAV_4bk",
+  },
+  {
+    title: "Talking Head",
+    category: "Talking Head Videos",
+    slug: "talking-head",
+    description:
+      "Clean cuts, B-roll, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "hQly2NB_-RA",
+  },
+  {
+    title: "Talking Head",
+    category: "Talking Head Videos",
+    slug: "talking-head",
+    description:
+      "Clean cuts, B-roll, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "yM2RVl_mrNU",
+  },
+  {
+    title: "Talking Head",
+    category: "Talking Head Videos",
+    slug: "talking-head",
+    description:
+      "Clean cuts, B-roll, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "1pwbJ1PVNLA",
+  },
+  {
+    title: "Talking Head",
+    category: "Talking Head Videos",
+    slug: "talking-head",
+    description:
+      "Clean cuts, B-roll, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "0-padDTLwpQ",
+  },
+  {
+    title: "Talking Head",
+    category: "Talking Head Videos",
+    slug: "talking-head",
+    description:
+      "Clean cuts, B-roll, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "qvWNxNjKevM",
+  },
+  {
     title: "Interview Reels/Tiktoks",
     category: "Interview Reels/Tiktoks",
     slug: "interview-reels",
