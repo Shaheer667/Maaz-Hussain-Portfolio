@@ -1000,6 +1000,46 @@ export const videos = [
     youtubeId: "WBWYWw1hJN8",
   },
   {
+    title: "Automative Videos",
+    category: "Automative Videos",
+    slug: "automative-videos",
+    description:
+      "Edit wedding videos, clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "5qSQGahNMkA",
+  },
+  {
+    title: "Automative Videos",
+    category: "Automative Videos",
+    slug: "automative-videos",
+    description:
+      "Edit wedding videos, clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "Zoa2ystIuoI",
+  },
+  {
+    title: "Automative Videos",
+    category: "Automative Videos",
+    slug: "automative-videos",
+    description:
+      "Edit wedding videos, clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "gVshZz5FPYw",
+  },
+  {
+    title: "Automative Videos",
+    category: "Automative Videos",
+    slug: "automative-videos",
+    description:
+      "Edit wedding videos, clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "clF4Bj8ZMz0",
+  },
+  {
+    title: "Automative Videos",
+    category: "Automative Videos",
+    slug: "automative-videos",
+    description:
+      "Edit wedding videos, clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
+    youtubeId: "W8GpjxuzvzY",
+  },
+  {
     title: "Stick figure/Illustration Animation",
     category: "Stick figure/Illustration Animation",
     slug: "stick-figure",
@@ -1167,6 +1207,11 @@ export const videoCategories = [
   {
     title: "Travel/Tour Videos",
     slug: "travel-videos",
+    description: "Clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
+  },
+  {
+    title: "Automative Videos",
+    slug: "automative-videos",
     description: "Clean cuts, music, lower thirds, and smooth pacing for a professional long-form video.",
   },
   {
